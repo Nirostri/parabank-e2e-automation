@@ -1,0 +1,8 @@
+<testng>
+    <suite name="Sanity Suite">
+        <test name="UI Tests"></test>
+        <test name="API Tests"></test>
+        <test name="DB Tests"></test>
+        <test name="Integration Tests"></test>
+    </suite>
+</testng>
